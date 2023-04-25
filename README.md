@@ -4,5 +4,5 @@ Created a soil/enivornmental sensor using the Arduino MKR1010, DFRobot SEN0335, 
 
 <p align="left">
     <img width="50%" src="IMAGES/IMG_4878.jpg" style="max-width:50%;"></a>
-    <img width="50%" src="IMAGES/IMG_4850.jpg" style="max-width:50%;"></a>
+    <img width="47%" src="IMAGES/IMG_4850.jpg" style="max-width:50%;"></a>
 </p>
